@@ -81,8 +81,7 @@ dataset/illya_C_activity01_1.wav|魔法少女同士のバトルだなんて、�
 dataset/illya_C_activity01_2.wav|後ろ側のは、不安しかない……
 dataset/illya_C_activity02.wav|カルデアの……カッコいい……マスターさん、それにマシュさんと一緒に行動できて、本当によかったなぁ
 dataset/illya_C_activity03.wav|穏やかじゃない！ それってもう、隕石ってレベルじゃないし！
-dataset/illya_C_activity04_1.wav|ところでイリヤさん、宿題はお済みになられました？
-dataset/illya_C_activity04_2.wav|いつも美遊さんに頼ってばかりじゃダメですよ！ ちゃんと情報を確認しましょう！
+dataset/illya_C_activity04.wav|う……そんなお知らせ、あったかな
 dataset/illya_C_activity05.wav|まさかわたし達以外にも、こんなに魔法少女がワラワラいたなんて……
 dataset/illya_C_activity06_1.wav|不思議な世界でのわたし達の冒険も、一区切りです。クロとミユ共々、お世話になりました！
 dataset/illya_C_activity06_2.wav|まだまだ、これからだよ。マスターさんも、どうか頑張ってください！
