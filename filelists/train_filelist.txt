@@ -1,0 +1,212 @@
+dataset/illya_C_battle_pro_start1.wav|必要な戦い……なんだよね。うん、行くよ、ルビー！
+dataset/illya_C_battle_pro_start2.wav|な、なんか強そうなんだけど〜
+dataset/illya_C_battle_pro_skill1.wav|ルビー、お願い！
+dataset/illya_C_battle_pro_skill3.wav|不安しかない……
+dataset/illya_C_battle_pro_set1.wav|はい！
+dataset/illya_C_battle_pro_set2.wav|任せて〜！
+dataset/illya_C_battle_pro_set3.wav|ほえ？
+dataset/illya_C_battle_pro_npset.wav|わたしはもう……何も諦めない！
+dataset/illya_C_battle_pro_attack1.wav|フォイア！
+dataset/illya_C_battle_pro_attack2.wav|シュナイデン！
+dataset/illya_C_battle_pro_attack3.wav|えーいっ！
+dataset/illya_C_battle_pro_attack4.wav|行くよーっ、ショット！
+dataset/illya_C_battle_pro_attack5.wav|限定インクルード、バーサーカー！　やぁぁああーっ！
+dataset/illya_C_battle_pro_attack6.wav|うぅー、シュート！
+dataset/illya_C_battle_pro_extra1.wav|撃ち落す！
+dataset/illya_C_battle_pro_extra2.wav|撃ち落す！これでどう？取って置き、なんだから！
+dataset/illya_C_battle_pro_np.wav|これがわたしの全て！
+dataset/illya_C_battle_pro_bt1.wav|なんて大人げないのー！
+dataset/illya_C_battle_pro_bt2.wav|うぅ！
+dataset/illya_C_battle_pro_de1.wav|強く……ならなきゃ。もっと……
+dataset/illya_C_battle_pro_de2.wav|お兄ちゃん……
+dataset/illya_C_battle_pro_win1_1.wav|やったね、大勝利！
+dataset/illya_C_battle_pro_win1_2.wav|ぶ、物騒なことはやめてね……
+dataset/illya_C_battle_pro_win2.wav|ほえ〜……もうダメかと思ったよ。でも結構頑張ったし、褒めてくれるかなぁ？
+dataset/illya_C_battle_black_skill1.wav|段々、馴染んできた
+dataset/illya_C_battle_black_skill2.wav|年季の違いを見せてあげる
+dataset/illya_C_battle_black_attack1.wav|消えて！
+dataset/illya_C_battle_black_attack2.wav|さよならね
+dataset/illya_C_battle_black_extra.wav|私の邪魔はしないて
+dataset/illya_C_battle_black_np.wav|いい身体ね、少し借りるわ。尽きぬ願い、尽きぬ欲望に応えてあげる。無限に続くわたしたちでね
+dataset/illya_C_battle_black_bt.wav|やめて やめなさい！
+dataset/illya_C_battle_black_de1.wav|きらきら光って…………終わるのね
+dataset/illya_C_battle_black_de2.wav|ミラー……ごめんなさい
+dataset/illya_C_summon_1.wav|えっと、イリヤって言います。小学五年生です。一応……魔法少女、やってます、はい。
+dataset/illya_C_summon_2.wav|うぅ、わたしなんかが役に立つのか分からないけど……でも精一杯、がんばります！
+dataset/illya_C_LVup.wav|おっきくなったかなぁ……はっ！ 身長が、だよ！
+dataset/illya_C_Change1_1.wav|やったね、転身完了！
+dataset/illya_C_Change1_2.wav|そういうのないからね！？ マ、マスターさんも、期待しないで〜！
+dataset/illya_C_Change2_1.wav|なんだか少し、体が軽くなったみたい。ちゃんと成長してるんだね、私
+dataset/illya_C_Change2_2.wav|なんでよー！
+dataset/illya_C_Change3_1.wav|すごい……魔力が溢れてくる……！ これならもっと戦える。みんなを、守れる！
+dataset/illya_C_Change3_2.wav|あ、あの、ここまで育ててくれて、ありがとうございます！ これからも、もっともっと、頑張るからね！
+dataset/illya_C_Change4_1.wav|思ってたよりも随分長い夏休みになっちゃったな……
+dataset/illya_C_Change4_2.wav|マスターさんは、ちゃあんと責任とって、私の宿題手伝ってよね！
+dataset/illya_C_kizuba1_1.wav|うーん……ルビー。なにかいい暇つぶしなーいー？
+dataset/illya_C_kizuba1_2.wav|今すぐ削除しなさい！
+dataset/illya_C_kizuba2_1.wav|私、ちゃんと役に立ててる……？ ごめんなさい！ 
+dataset/illya_C_kizuba2_2.wav|私もアニメの魔法少女みたいに、もっとこう！ ズババーンとかズビャーって感じになれたら！ ……良かったんだけど
+dataset/illya_C_kizuba3_1.wav|最初は不安だったけど、段々ここでの生活も慣れてきたかな。マシュさんやダ・ヴィンチちゃんさんは優しいし、ロマンさんは
+dataset/illya_C_kizuba3_2.wav|頼りないけど。フォウくんはモフいし。あと、マスターさんも……その、ちゃんと私のこと大事にしてくれてるの分かるから
+dataset/illya_C_kizuba4_1.wav|私、怖くないよ。どんなに敵が強くても、この先にどんな運命が待っていたとしても
+dataset/illya_C_kizuba4_2.wav|マスターさんは、きっとそれよりもっと強い。私は、そう信じてる！
+dataset/illya_C_kizuba5_1.wav|ん……えへへ。マスターさんに頭撫でられるの、好き……。あっ、今度お風呂上りに髪乾かしてほしいな
+dataset/illya_C_kizuba5_2.wav|なんて。……ふえっ！？ お風呂一緒には……ダメ……まだ
+dataset/illya_C_talk1.wav|お疲れさまでーす！ あ、でもまだまだお仕事あるんだよね。頑張って！ 私も応援するから
+dataset/illya_C_talk2.wav|マスター、か……。前にも、そう名乗ってきた赤い人がいまして……
+dataset/illya_C_talk3.wav|誰かに命令されるのは、慣れてるからね〜。マスターとサーヴァントって関係も、大丈夫だよ〜。でも、あんまりひどい命令は、やめてね
+dataset/illya_C_talk4_1.wav|クロがまたマスターさんにちょっかいかけてるって聞いたんですけど……嫌なら嫌ってちゃんと言わないとダメだよ！ 
+dataset/illya_C_talk4_2.wav|じゃないとその……う、奪われますよ！？ 色々と！
+dataset/illya_C_talk5_1.wav|あの！ さっき廊下で会った黒いお髭の人が、私を見るなり奇声をあげて失神しちゃったんですけど！
+dataset/illya_C_talk5_2.wav|え、ほっといていい？ というか二度と近づいちゃだめ？ えぇぇ……そんな。……何者なの、あの人
+dataset/illya_C_talk6_1.wav|あれ、今ママの声しなかった？ ……うーん、聞き間違いかなぁ？
+dataset/illya_C_talk6_2.wav|なんだかお嬢様みたいな話し方だったし。ママはもっとこう……その、アレっぽい感じだし……
+dataset/illya_C_talk7_1.wav|最近、時々視線を感じるの。振り返るとサッといなくなるんだけど、その時に赤い外套がちらっと見えちゃった。
+dataset/illya_C_talk7_2.wav|何か用があるのかなぁ。はっきり言ってくれればいいのに
+dataset/illya_C_talk8_1.wav|やあ——！もう、もう感激だよ！美遊と肩を並べて戦えるなんて
+dataset/illya_C_talk8_2.wav|うれしいなあー。素敵だなー。美遊と一緒のお弁当、一緒のお風呂、一緒の！
+dataset/illya_C_talk9_1.wav|クロ以外にも私にそっくりな女の子がー
+dataset/illya_C_talk9_2.wav|それって……うん、まあ薄々分かってたんだけど……
+dataset/illya_C_talk9_3.wav|ここは、色んな人たちがいる場所だってこと。同じ顔でも、違う人生や違う歴史を歩んできた人たちがね。
+dataset/illya_C_talk9_4.wav|宇宙とか水着ではっちゃけちゃった人まで……。だ、だったら、小学生で魔法少女やってる……そんな私がいたっていいよね！
+dataset/illya_C_talk9_5.wav|うーん、まずはお友達になれたら、大丈夫かな
+dataset/illya_C_like.wav|わたしは、夏が好き！ 夏生まれだから……かなぁ？ おっきな入道雲を見てると、走り出したくなっちゃうよね！
+dataset/illya_C_unlike_1.wav|嫌いなものっていったら、なんか悪さしてる時のクロ……かな。ひどいんだよ！
+dataset/illya_C_unlike_2.wav|やったのはクロなのに、顔が似てるって理由でわたしのせいになったりして！ はぁ……姉としてキツーく言っておかなきゃ！ うん、姉として！
+dataset/illya_C_senhai_1.wav|何でも願いが叶う聖杯……ちょっと信じられないけど、もし本当にそういうものがあったら、きっとみんなが幸せになれるんだろうね。
+dataset/illya_C_senhai_2.wav|みんなの明日が、ほんの少しでも良いものになれたなら、ステキだなーって思う
+dataset/illya_C_activity.wav|何かイベントやってるみたいだよ？ わたしも行ってみたいなぁ。あの……連れてってくれる……
+dataset/illya_C_birthday.wav|お誕生おめでとー！ マスターさん！ ルビーと一緒にバースデーケーキ作ったよ！ 食べて食べてー！
+dataset/illya_C_activity01_1.wav|魔法少女同士のバトルだなんて、とんでもない事態になっちゃったけど……よろしくお願いします
+dataset/illya_C_activity01_2.wav|後ろ側のは、不安しかない……
+dataset/illya_C_activity02.wav|カルデアの……カッコいい……マスターさん、それにマシュさんと一緒に行動できて、本当によかったなぁ
+dataset/illya_C_activity03.wav|穏やかじゃない！ それってもう、隕石ってレベルじゃないし！
+dataset/illya_C_activity04_1.wav|ところでイリヤさん、宿題はお済みになられました？
+dataset/illya_C_activity04_2.wav|いつも美遊さんに頼ってばかりじゃダメですよ！ ちゃんと情報を確認しましょう！
+dataset/illya_C_activity05.wav|まさかわたし達以外にも、こんなに魔法少女がワラワラいたなんて……
+dataset/illya_C_activity06_1.wav|不思議な世界でのわたし達の冒険も、一区切りです。クロとミユ共々、お世話になりました！
+dataset/illya_C_activity06_2.wav|まだまだ、これからだよ。マスターさんも、どうか頑張ってください！
+dataset/illya_C_activity07.wav|無駄に怪しい！ でも折角のご褒美なんだから、受け取りは忘れずに、ね！
+dataset/illya_C_activity08_1.wav|アイテムチェーック！ 報酬チェーック！
+dataset/illya_C_activity08_2.wav|余計なことは言わなくていいのっ！
+dataset/illya_C_activity09.wav|やったね、アイテムがもらえたよ
+dataset/illya_C_activity10.wav|これ……ちょっといいヤツかも！
+dataset/illya_C_activity11.wav|新しいミッションだね。宿題は毎日少しずつやろう
+dataset/illya_C_activity12.wav|また新しい敵が現れたみたい。気をつけて！
+dataset/illya_C_activity13.wav|よーし、次はあそこに行ってみよう！
+dataset/illya_C_activity14_1.wav|ウチのクロを、よろしくお願いします！ ……うう、心配だなぁ
+dataset/illya_C_activity14_2.wav|ちょ、それは本気で傷つくんですけど！
+dataset/illya_C_activity15_1.wav|全ミッションクリアだね！
+dataset/illya_C_activity15_2.wav|わたし達の戦いはまだ終わってないよ！ 最後まで頑張ろうね、マスターさん！
+dataset/illya_C_activity16_1.wav|全クエストクリアー！ すごい、すごいよマスターさん！
+dataset/illya_C_activity16_2.wav|な、なんか褒めてるのか怪しいけど……とにかく、お疲れ様でしたー！
+dataset/illya_C_activity17.wav|いらっしゃいませー。限定ショップ、営業中だよー
+dataset/illya_C_activity18.wav|補給は大事、ですよね。ゆっくり選んでいってください
+dataset/illya_C_activity19.wav|はい、どうぞ。大事に使ってくださいね
+dataset/illya_C_activity20.wav|これでもっと強くなれる……かな
+dataset/illya_C_activity21.wav|もっといっぱい欲しくなっちゃうよね
+dataset/illya_C_activity22_1.wav|このお店も、そろそろおしまいみたい。テナントをダ・ヴィンチちゃんさんに返さなきゃね。
+dataset/illya_C_activity22_2.wav|あ、交換し忘れたものがあったら言ってくださいね。最後までお付き合いします
+dataset/illya_C_Valentine1.wav|あっ、マスターさん……もしよかったら、これ、受け取ってくださーい！
+dataset/illya_C_Valentine2.wav|なかなかうまくいかなくてっ……もうこんな時間になっちゃって……
+dataset/illya_C_Valentine4.wav|で、デザインです！あ……でも、これって……うわぁ……
+dataset/illya_C_Valentine6.wav|だから余計に大変だったんでしょー？本当に何も混ぜてないでしょうね、ルビー！？
+dataset/illya_C_Valentine7.wav|ハァ……もう……
+dataset/illya_C_Valentine8.wav|えっと、そんなわけで……味と、副作用は……保証しかねますけど、でも……
+dataset/illya_C_Valentine9M.wav|お兄さんに、喜んでもらえたら……嬉しいな
+dataset/illya_C_Valentine9F.wav|お姉さんに、喜んでもらえたら……嬉しいな
+dataset/Shitonai_battle_start1.wav|いくよ、シロウ
+dataset/Shitonai_battle_start2.wav|あ……容赦しないけど、ごめんね
+dataset/Shitonai_battle_skill1.wav|よしよし、シロウはえらいねー
+dataset/Shitonai_battle_skill2.wav|おいで。……ふふっ、みんなよろしくね
+dataset/Shitonai_battle_set1.wav|慌てない慌てない
+dataset/Shitonai_battle_set2.wav|うん、いいよ
+dataset/Shitonai_battle_set3.wav|やっちゃうね
+dataset/Shitonai_battle_npset1.wav|蹴散らしなさい、シロウ
+dataset/Shitonai_battle_npset2.wav|滅茶苦茶にしてあげる
+dataset/Shitonai_battle_attack1.wav|たあっ！
+dataset/Shitonai_battle_attack2.wav|やぁーっ！
+dataset/Shitonai_battle_attack3.wav|えぇーいっ！
+dataset/Shitonai_battle_extra.wav|ていっ！　やあっ！　せぇーの、どぉーん！
+dataset/Shitonai_battle_np1.wav|シロウ、お願い！よいしょっと。私の中の女神達、力を貸して！
+dataset/Shitonai_battle_np2.wav|お転婆かなぁ？　でも、楽しい！
+dataset/Shitonai_battle_bt1.wav|痛くない……痛くない……
+dataset/Shitonai_battle_bt2.wav|あぁーっ
+dataset/Shitonai_battle_de1.wav|ごめんね、シロウ……逃げて……
+dataset/Shitonai_battle_de2.wav|少し……寒いね……
+dataset/Shitonai_battle_win1.wav|これで終わり。さあ行こ、シロウ
+dataset/Shitonai_battle_win2.wav|あれ、もう起き上がってこないんだ。ふーん……そうなんだ。つまんないの
+dataset/Shitonai_summon.wav|真名は、シトナイにしたわ。外観によく現れているのが、シトナイのようだから。よろしくね、マスターさん
+dataset/Shitonai_LVup.wav|へー。こういう感じなんだ？変なの
+dataset/Shitonai_change1.wav|あ、姿が変わるんだ。面白いね。……ふぅん。あ、前の姿には戻れるのかな？戻れる？そぅ。そういうものなのね
+dataset/Shitonai_change2.wav|魔力の上昇とは、また違うんだ。器が変化してる。これもある意味、成長……なのかな？うっふふっ。なんだか嬉しい
+dataset/Shitonai_change3.wav|うん、霊基がある程度まで変化すると、姿も変わるのね。分かってきたわ。ちょっと女神達の力が強くなっているみたい。どうかな？似合う？
+dataset/Shitonai_change4.wav|マスター、って誰かを呼ぶのは変な感じ。でも、今の私はサーヴァントだものね。マスターがいるのは当然。だから……えっと、改めてよろしくね、マスターさん
+dataset/Shitonai_kizuba1.wav|この体の名前はイリヤスフィール・フォン・アインツベルン。人格もそっちに近いかな。えっと、アインツベルンって家名、知ってる？
+dataset/Shitonai_kizuba2_1.wav|私には、三柱の女神が力を貸してくれてるの。北欧の女神フレイヤ、フィンランドの魔女ロウヒ、それから、アイヌのシトナイ。
+dataset/Shitonai_kizuba2_2.wav|シトナイは、神様っていうより、英霊に近いのかな？
+dataset/Shitonai_kizuba3_1.wav|シロウ？ あの子は私の宝具。本当はシトナイの友達の猟犬なんだけど…なぜか熊になっちゃってるの。
+dataset/Shitonai_kizuba3_2.wav|うーんロウヒとフレイヤが何かしちゃったみたいなんだけど…名前…？ うん、名前はこの体のイリヤスフィールの記憶にあった名前を借りたの。
+dataset/Shitonai_kizuba3_3.wav|シロウ、ずっと忘れない大切な人の名前
+dataset/Shitonai_kizuba4.wav|サーヴァントになるのは初めてだからちょっと緊張してたんだけど、あなたは良い人ね。うん、良い人がマスターで良かった。
+dataset/Shitonai_kizuba5_1.wav|あのね、一つお願いがあるの。えっと…カルデアのサーヴァントとして登録された霊基の中に、気になる名前がいくつかあって、それで
+dataset/Shitonai_kizuba5_2.wav|あの人達がどういう英霊なのかその…聞いてもいい？
+dataset/Shitonai_talk01.wav|眠いの？ぼーっとしてるけど。もしかして、疲れてる？
+dataset/Shitonai_talk02.wav|ふふっ、わたしはあなたよりもお姉さんなの。だからちゃーんと言うこと聞いてね。私のお仕置き、残酷なんだから
+dataset/Shitonai_talk03.wav|マスターとサーヴァント、か。――ううん、なんでもないの。気にしないで、マスター
+dataset/Shitonai_talk04.wav|ウルクの女神に、インドの女神の擬似サーヴァントね。ふうん、あの二人も呼んでいたんだ。それで、どっちが好みなの？マスターさん
+dataset/Shitonai_talk05_1.wav|錬鉄の英霊、無銘の守護者、か……。当然いるわよね。だって、人理の危機なんだもの。
+dataset/Shitonai_talk05_2.wav|あれ？でも、なんか変な格好になってない？いつもの赤コートはどこに……もしかして、シロウぐれちゃったー
+dataset/Shitonai_talk06.wav|あのフードのアサシンは……ううん、なんでもない。きっと、運命に出会えなかった誰かなのでしょう。……より残酷な結末なのは、どちらだったのかしら
+dataset/Shitonai_talk07_1.wav|あのっ、さっきとても綺麗な人を見かけたんだけど、どこの英霊なのかしらあの人！
+dataset/Shitonai_talk07_2.wav|白い魔術用の礼服を着て、冠を被っていて、とっても、いえ、すこーしだけセクシーなお姉さん！憧れるなー、私もああなりたいなー
+dataset/Shitonai_talk08.wav|この私は、異聞帯での記憶を持たないけど、一応再会ということになるのかしら。これからは仲間……でいいんだよね、スカサハスカディ
+dataset/Shitonai_talk09.wav|魔法少女？私は魔法なんて使えないし、ステッキだって持ってないよ。ふふ、何のお話してるの？
+dataset/Shitonai_talk10_1.wav|マスター、とんでもないサーヴァントがいるわ！この気配、只者じゃない！何をしても勝てない気さえする！
+dataset/Shitonai_talk10_2.wav|あのネコ、きっと主神クラスのサーヴァントね！え？ネコじゃない、ジャガー？あと知り合い？……そういえば、あの顔、すごく見覚えがあるような
+dataset/Shitonai_talk11.wav|あんなのと契約しているなんて、幻滅するわ。誰って、あのアーチャーの事よ。あーもー心臓抜きたーいっ！後ろから襲ってよもや貴様っ！とか言わせたーい！
+dataset/Shitonai_talk12.wav|生意気な英雄王、はっけーん！って、あれ？なんか雰囲気違う？もしかして、真面目にやればできる英霊だったのかな、あいつ
+dataset/Shitonai_talk13.wav|ふふ、やっぱり、バーサーカーは強いね
+dataset/Shitonai_talk14_1.wav|世界には似た人間が三人いると言うけれど……他人の空似どころの話じゃない。ほとんど双子レベルのそっくりさんなのね、おじ様。
+dataset/Shitonai_talk14_2.wav|ふふ、外見はあの頃のままなのに、中身はとってもお爺ちゃんだなんて面白いわ
+dataset/Shitonai_like.wav|好きなもの？雪は好きよ。冷たいけど白くて、ふわふわしているから。白いエプロンみたいでしょう？
+dataset/Shitonai_unlike.wav|寒いのはきらーい。今はそんなのほとんど感じないから……ふふっ、全然大丈夫ね
+dataset/Shitonai_senhai.wav|色んな聖杯があるんだね。私も、ううん、この体も聖杯だったってあなたは知ってた？小聖杯と言うの。でも、今は違うわ。今は、ね
+dataset/Shitonai_activity.wav|シロウが外に出たがってるみたいんだんだけど……。今、何かやってるの？
+dataset/Shitonai_birthday.wav|お誕生日おめでとう。あなたはどんな風にお祝いして欲しい？
+dataset/Shitonai_activity1.wav|えっと……調子はどう？私の一緒に最後まで頑張ろうね
+dataset/Shitonai_activity2.wav|お疲れ様。進んでる？
+dataset/Shitonai_activity3.wav|ほう……あなたって、頑張り屋さんなのね
+dataset/Shitonai_activity4.wav|ふふ、なんだか変な感じ。聖杯が関係しているのに、誰も死んだりしないのね。うん、変な感じ
+dataset/Shitonai_activity5.wav|あ、そうだ。インフォメーションやおしらせ？そういうのを確認しておいた方がいいって、マシュが言っていたわ
+dataset/Shitonai_activity6.wav|あれ、どうしたの？私、もう帰るところだけど。お茶でもする？
+dataset/Shitonai_activity7.wav|ここにいる私も、もう……ううん、何でもない。またね！
+dataset/Shitonai_Valentine01.wav|あ、見つかっちゃった。
+dataset/Shitonai_Valentine02.wav|こんにちは、マスターさん
+dataset/Shitonai_Valentine03.wav|賑やかなのも嫌いではないけど、あまり気分じゃなかったから避難していたの。
+dataset/Shitonai_Valentine04.wav|シミュレーターの中に……ちょうど、冬の山小屋があったものだから。
+dataset/Shitonai_Valentine05.wav|冬の景色は好きよ。この霊基のわたしは雪の多い国で生まれたから。
+dataset/Shitonai_Valentine06.wav|ここ、どこの山小屋なのかしら。日本？
+dataset/Shitonai_Valentine07.wav|やっぱり。
+dataset/Shitonai_Valentine08.wav|ああ、日用品がメイド・イン・ジャパンだったから、多分そうなのかなって。
+dataset/Shitonai_Valentine09.wav|ふうん、そうなんだ。
+dataset/Shitonai_Valentine11.wav|んー
+dataset/Shitonai_Valentine12.wav|せっかくここまで来たのだから、お茶でもどう？シミュレーターのデータだけどね。
+dataset/Shitonai_Valentine13.wav|うん。
+dataset/Shitonai_Valentine14.wav|あはは、何それ。カルデアのサーヴァントってそうなんだ！
+dataset/Shitonai_Valentine15.wav|はい、お茶。えーっとそれから
+dataset/Shitonai_Valentine16.wav|これはお茶請け。あなたの口に合うといいんだけど。
+dataset/Shitonai_Valentine17.wav|うん、ホワイトチョコレート。甘いよ。
+dataset/Shitonai_Valentine18.wav|ん？
+dataset/Shitonai_Valentine19.wav|あ、違うよ？バレンタインデーのチョコとか、そういうのじゃなくて！
+dataset/Shitonai_Valentine20.wav|わ、わたしが食べたいなーって思ったから、用意したデータで
+dataset/Shitonai_Valentine21.wav|ま、まあでも、いいわ。それでも。ハッピーバレンタイン！　はい、おしまい！
+dataset/Shitonai_Valentine23.wav|バレンタインのチョコレート。別に、誰にもあげたくないって訳じゃないの。
+dataset/Shitonai_Valentine24.wav|その逆。あげたい人、あげなきゃいけない人が
+dataset/Shitonai_Valentine25.wav|いっぱいいるけど、なんだか声を掛けにくいから……
+dataset/Shitonai_Valentine26.wav|それなら、もう、誰にも……
+dataset/Shitonai_Valentine27.wav|え。
+dataset/Shitonai_Valentine28.wav|手伝って……くれるの？　わたしを？
+dataset/Shitonai_Valentine29.wav|え、え？一緒に？
+dataset/Shitonai_Valentine30.wav|驚いた。すごく積極的なんだ、あなた。
+dataset/Shitonai_Valentine31.wav|ふふ。それじゃあ……うん！せっかくだし、お言葉に甘えちゃおうかな！
