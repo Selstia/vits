@@ -7,11 +7,11 @@ dataset/illya_A_battle_set2.wav|狙ってー
 dataset/illya_A_battle_set3.wav|ブシャー！
 dataset/illya_A_battle_npset1.wav|はっ！…何か、悟りそう
 dataset/illya_A_battle_npset2.wav|わたし、また分裂しそうな予感！
-dataset/illya_A_battle_attaAk1.wav|ウォッシャー！
-dataset/illya_A_battle_attaAk2.wav|てりゃりゃりゃ〜
-dataset/illya_A_battle_attaAk3.wav|突撃ー
-dataset/illya_A_battle_attaAk4.wav|これでもどうぞ！
-dataset/illya_A_battle_attaAk5.wav|水圧…マックスぅ！
+dataset/illya_A_battle_attack1.wav|ウォッシャー！
+dataset/illya_A_battle_attack2.wav|てりゃりゃりゃ〜
+dataset/illya_A_battle_attack3.wav|突撃ー
+dataset/illya_A_battle_attack4.wav|これでもどうぞ！
+dataset/illya_A_battle_attack5.wav|水圧…マックスぅ！
 dataset/illya_A_battle_extra1.wav|所によりにわか雨！お足元注意だよー！
 dataset/illya_A_battle_extra2.wav|晴れの日も雨の日も！上を向いて遊ぼー！
 dataset/illya_A_battle_np.wav|行こう、ルビー！前へ、未来へ、その先へ！夏が終わっても、たくさんの思い出があるから、わたしは飛べる！
